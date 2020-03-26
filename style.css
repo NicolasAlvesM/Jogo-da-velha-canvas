@@ -1,0 +1,5 @@
+*{margin:0px;padding:0px;}
+main{background-color: aqua;width:210px;margin:200px auto;padding:20px;} 
+p{margin-bottom:30px;display: inline-block;}
+#a{position: relative;top:15px;left:20px;background-color:transparent;height:50px;width:50px;}
+canvas{background-color: beige;margin:10px;}
