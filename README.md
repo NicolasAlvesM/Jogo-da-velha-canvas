@@ -6,4 +6,4 @@ As tecnologias usadas neste projeto são...
 ✅ CSS 3
 ✅ JavaScipt
 
-(https://github.com/NicolasMorenoAlves/Jogo-da-velha-canvas/blob/master/images/img1.png)
+![a](https://github.com/NicolasMorenoAlves/Jogo-da-velha-canvas/blob/master/images/img1.png)
