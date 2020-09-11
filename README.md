@@ -7,3 +7,4 @@ As tecnologias usadas neste projeto são...
 ✅ JavaScipt
 
 ![a](https://github.com/NicolasMorenoAlves/Jogo-da-velha-canvas/blob/master/images/img1.png)
+![a](https://github.com/NicolasMorenoAlves/Jogo-da-velha-canvas/blob/master/images/img2.png)
