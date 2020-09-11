@@ -6,5 +6,5 @@ As tecnologias usadas neste projeto são...
 ✅ [CSS](https://www.w3schools.com/css/)
 ✅ [JavaScript](https://www.javascript.com/)
 
+## Screenshots
 ![a](https://github.com/NicolasMorenoAlves/Jogo-da-velha-canvas/blob/master/images/img1.png)
-![a](https://github.com/NicolasMorenoAlves/Jogo-da-velha-canvas/blob/master/images/img2.png)
